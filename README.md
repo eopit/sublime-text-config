@@ -47,7 +47,7 @@
 ### Sublime Shortcuts:
 1. Ctrl + Shift + F --> Search in the project the String parameter and list all archives that contains the String;
 2. Ctrl + Shift + P --> Open the command pallete;
-3. Ctrl + P --> Change the archive with name;
+3. Ctrl + P --> Open archive with name typed;
 4. Ctrl + R --> Search for a function in the file and go to the correspondent line;
 5. Ctrl + D --> Select more than one word to change at the same time
 
