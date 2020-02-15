@@ -44,7 +44,7 @@
 - [x] gitgutter;
 - [ ] snippets;
 
-###Sublime Shortcuts
+### Sublime Shortcuts:
 > Ctrl + Shift + F --> Search in the project the String parameter and list all archives that contains the String;
 > Ctrl + Shift + P --> Open the command pallete;
 > Ctrl + P --> Change the archive with name;
