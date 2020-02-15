@@ -1,22 +1,22 @@
 # My Sublime Text Config
 ### First config:
-* Install *Package Control*: _Ctrl + Shift + P then type Install Package_;
-* Install Material Theme then choose Dark Theme
-  * Ctrl + Shift + P then choose *Material Theme: Configuration*;
-  * *Panel*:
-  *   Contrast mode;
-  *   Compact panel;
-  *   Small status bar.
+* Install **Package Control**: _Ctrl + Shift + P then type Install Package_;
+* Install Material Theme then choose **Dark Theme**
+  * Ctrl + Shift + P then choose **Material Theme: Configuration**;
+  * **Panel**:
+  *   - [x] Contrast mode;
+  *   - [x] Compact panel;
+  *   - [x] Small status bar.
   
-  * *Sidebar*
-  *   Compact side bar.
+  * **Sidebar**
+  *   - [x] Compact side bar.
   
-  * *Tabs*
-  *   Theme bold tab;
-  *   Small tab;
-  *   Tabs autowidth;
+  * **Tabs**
+  *   - [x] Theme bold tab;
+  *   - [x] Small tab;
+  *   - [x] Tabs autowidth;
 
-* Go to Preferences/Settings then paste
+* Go to **Preferences/Settings** then paste
 ```
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
@@ -39,4 +39,6 @@
 	"theme": "Material-Theme-Darker.sublime-theme"
 }
 ```
+
+
   
