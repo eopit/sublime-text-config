@@ -1,2 +1,3 @@
-# sublime-text-config
-That's my Sublime Text Config.
+# My Sublime Text Config
+### First config:
+* Install *Package Control*: _Ctrl + Shift + P then type Package Controll_;
