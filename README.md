@@ -45,11 +45,11 @@
 - [ ] snippets;
 
 ### Sublime Shortcuts:
-> Ctrl + Shift + F --> Search in the project the String parameter and list all archives that contains the String;
-> Ctrl + Shift + P --> Open the command pallete;
-> Ctrl + P --> Change the archive with name;
-> Ctrl + R --> Search for a function in the file and go to the correspondent line;
-> Ctrl + D --> Select more than one word to change at the same time
+1. Ctrl + Shift + F --> Search in the project the String parameter and list all archives that contains the String;
+2. Ctrl + Shift + P --> Open the command pallete;
+3. Ctrl + P --> Change the archive with name;
+4. Ctrl + R --> Search for a function in the file and go to the correspondent line;
+5. Ctrl + D --> Select more than one word to change at the same time
 
 
 	
